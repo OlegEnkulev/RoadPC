@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadPC", "RoadPC\RoadPC.csproj", "{6A07586C-8602-4FD1-B898-2B37122B4F76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadPC_Console", "RoadPC_Console\RoadPC_Console.csproj", "{2843EA0C-D36C-4112-8F5D-AB820B92CC18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6A07586C-8602-4FD1-B898-2B37122B4F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A07586C-8602-4FD1-B898-2B37122B4F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A07586C-8602-4FD1-B898-2B37122B4F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2843EA0C-D36C-4112-8F5D-AB820B92CC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2843EA0C-D36C-4112-8F5D-AB820B92CC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2843EA0C-D36C-4112-8F5D-AB820B92CC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2843EA0C-D36C-4112-8F5D-AB820B92CC18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
